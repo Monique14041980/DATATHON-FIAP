@@ -1,6 +1,5 @@
 ## **O DESAFIO**
 
-
 ## Objetivo do Datathon
 
 O grande objetivo do Datathon é permitir que você, como cientista de dados ou analista de dados, crie uma proposta preditiva ou analítica para demonstrar o impacto que a ONG "Passos Mágicos" tem realizado sobre a comunidade que atende. A associação busca instrumentalizar o uso da educação como ferramenta para a mudança das condições de vida das crianças e jovens em vulnerabilidade social.
